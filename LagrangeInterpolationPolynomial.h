@@ -5,6 +5,6 @@ class LagrangeInterpolationPolynomial
 {
 public:
     void print(){
-        puts ("Under Constructtion");
+        puts ("Under Construction");
     }
 };
